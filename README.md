@@ -1,1 +1,1 @@
-Create a basic to do list using flask 
+Create a basic todo list using flask 
